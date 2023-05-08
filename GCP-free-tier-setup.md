@@ -68,5 +68,5 @@ In this article, we are just going to tell you **how to create a free trial Goog
 
 ### Step 5: On next page you have to fill your details, like  **account type, credit card details, tax information** , etc. If you have old Gmail account and all the information is already there it would take it and you might not have to fill all the details.
 
-![image](https://user-images.githubusercontent.com/37858762/236847332-036904bb-438f-4140-87eb-3aec455ffcc5.png)
+![image](https://user-images.githubusercontent.com/37858762/236849024-7debb865-5b27-41ff-89d0-65c8b0be7b6e.png)
 
