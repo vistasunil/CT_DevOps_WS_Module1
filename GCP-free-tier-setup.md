@@ -56,11 +56,11 @@ In this article, we are just going to tell you **how to create a free trial Goog
 
 ![image](https://user-images.githubusercontent.com/37858762/236847232-89333eec-8816-48e6-8e36-35247032dcea.png)
 
-![image](https://user-images.githubusercontent.com/37858762/236847261-e175726c-c633-4f5f-ae97-757728139e15.png)
+![image](https://user-images.githubusercontent.com/37858762/236848516-a5bde166-c168-473a-bfde-e6f816eb3dbd.png)
 
 ### Step 3: Accept the terms & conditions.
 
-<img width="319" alt="image" src="https://user-images.githubusercontent.com/37858762/236847815-a57b80fb-6a50-4d3e-a562-3c36caa8d1e4.png">
+![image](https://user-images.githubusercontent.com/37858762/236848531-33c8b637-a8f2-46d7-af47-6134244dd764.png)
 
 ### Step 4: Check and confirm your contact number. If needed, then change the number and proceed.
 
