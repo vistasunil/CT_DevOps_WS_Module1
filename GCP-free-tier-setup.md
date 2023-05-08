@@ -36,15 +36,15 @@ In this article, we are just going to tell you **how to create a free trial Goog
 
 * **Access to all Cloud Platform products**
 
-Get everything that you need to build and run your apps, websites and services, including Firebase and the Google Maps API.
+  Get everything that you need to build and run your apps, websites and services, including Firebase and the Google Maps API.
 
 * **$300 credit for free**
 
-Put Google Cloud to work with $300 in credit to spend over the next 90 days.
+  Put Google Cloud to work with $300 in credit to spend over the next 90 days.
 
 * **No auto-charge after free trial ends**
 
-Google will ask you for your credit card details to make sure that you are not a robot. You won't be charged unless you manually upgrade to a paid account.
+  Google will ask you for your credit card details to make sure that you are not a robot. You won't be charged unless you manually upgrade to a paid account.
 
 ### Steps to Create Google Cloud Platform (GCP) Account
 
