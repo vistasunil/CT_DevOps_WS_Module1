@@ -28,7 +28,7 @@
 
 <div align="right"> <img src=https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-whatsapp-icon-png-image_6315990.png width="20" height="20"> +91 98712 72900 </div>
 
-## _Complete belo exercises_
+## _Complete below exercises_
 
 ### Exercise 1: Setup Free trial Google Cloud Platform (GCP) Account**
 
