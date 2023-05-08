@@ -60,7 +60,7 @@ In this article, we are just going to tell you **how to create a free trial Goog
 
 ### Step 3: Accept the terms & conditions.
 
-![image](https://user-images.githubusercontent.com/37858762/236847280-27b3c3d5-a129-4e5d-9a64-6f7596545aa5.png)
+<img width="319" alt="image" src="https://user-images.githubusercontent.com/37858762/236847815-a57b80fb-6a50-4d3e-a562-3c36caa8d1e4.png">
 
 ### Step 4: Check and confirm your contact number. If needed, then change the number and proceed.
 
