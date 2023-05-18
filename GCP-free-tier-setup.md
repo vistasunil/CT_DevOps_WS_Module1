@@ -4,7 +4,7 @@
 
 # <div align="center"> SETUP GCP ACCOUNT </p>
 
-# <div align="center"> DevOps Instructor-led Training </div>
+# <div align="center"> DevOps Workshop Training </div>
 
 <br />
 
