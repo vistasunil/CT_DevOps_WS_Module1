@@ -3,7 +3,7 @@
 <img src=https://static.wixstatic.com/media/1c706c_a5df0ad56f894928bf858a74ba744b32~mv2.png/v1/fit/w_2500,h_1330,al_c/1c706c_a5df0ad56f894928bf858a74ba744b32~mv2.png width="400" height="200">
  </div>
 
-# <div align="center"> SETUP GCP ACCOUNT </p>
+# <div align="center"> LINUX BASIC COMMANDS </p>
 
 # <div align="center"> DevOps Instructor-led Training </div>
 
@@ -22,7 +22,7 @@
 <div align="right"> <img src=https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-whatsapp-icon-png-image_6315990.png width="20" height="20"> +91 98712 72900 </div>
 
 #
-</br>
+
 # 1 – SYSTEM INFORMATION
 
 ### Display Linux system information
