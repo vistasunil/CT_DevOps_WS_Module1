@@ -291,7 +291,7 @@ Linux chmod example
 
 | PERMISSION | EXAMPLE |
 | ---------- | ------- |
-|  U    G    W  | |
+| -U- -G- -W-  | sample command |
 | rwx rwx rwx | chmod 777 filename |
 | rwx rwx r-x | chmod 775 filename |
 | rwx r-x r-x | chmod 755 filename |
@@ -301,6 +301,7 @@ Linux chmod example
 ### NOTE: Use 777 sparingly!
 
 | LEGENS |
+| ------ |
 | U = User |
 | G = Group |
 | W = World |
