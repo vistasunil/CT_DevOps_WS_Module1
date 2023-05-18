@@ -300,7 +300,7 @@ Linux chmod example
 
 ### NOTE: Use 777 sparingly!
 
-| LEGENS |
+| LEGENDS |
 | ------ |
 | U = User |
 | G = Group |
